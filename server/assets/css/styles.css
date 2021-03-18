@@ -93,8 +93,8 @@ b.light-color{ color: #444; }
 
 .main-area .desc{ margin: 20px auto; max-width: 500px; }
 	
-.main-area .notify-btn{ padding: 13px 35px; border-radius: 50px; border: 2px solid #4f19e4;
-	color: #fff; background: #4d3af8; }
+.main-area .notify-btn{ padding: 13px 35px; border-radius: 50px; border: 2px solid #101f14;
+	color: #fff; background: #0e1d0e; }
 
 .main-area .notify-btn:hover{ background: none; }
 
@@ -103,7 +103,7 @@ b.light-color{ color: #444; }
 .main-area .social-btn > li > a{ margin: 0 10px; padding-bottom: 7px; position: relative; overflow: hidden; }
 
 .main-area .social-btn > li > a:after{ content:''; position: absolute; bottom: 0; left: 0; right: 0; 
-	transition: all .2s; height: 2px; background: #6949f8; }
+	transition: all .2s; height: 2px; background: #0c2717; }
 
 	
 .main-area .social-btn > li > a:hover:after{ transform: translateX(100%); }
